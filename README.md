@@ -27,3 +27,5 @@ Tahap penggunaan Aplikasi MyBookShelf:
 
 Buka aplikasi NetBeans pada device, kemudian open project dari file
 Aplikasi sudah dapat dijalankan
+
+Demo vidio link : https://youtu.be/n0Mmu8baySg
