@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/service/BookShelfService.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/AddBook.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/util/ButtonEditor.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/ArchievedPage.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/util/DB.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/repository/MyBookRepositoryImpl.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/entity/MyBookShelf.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/HomePage.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/AppFrame.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/DetailBook.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/ReadBook.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/service/BookShelfServiceImpl.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/AboutPage.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/repository/MyBookRepository.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/MyBookApp.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/util/ButtonRenderer.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/Greeting.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/ArchiveBook.java</file>
+            <file>file:/D:/Kuliah/Semester%203/app_k19_11S22025/src/ui/pages/PagesController.java</file>
+        </group>
+    </open-files>
+</project-private>
